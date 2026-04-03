@@ -1,8 +1,8 @@
 {
   "name": "heroku-demo",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   }
 }
